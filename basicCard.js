@@ -7,7 +7,4 @@ function BasicCard (front, back) {
 }
 };
 
-var flashCard = new BasicCard("The apple is red", "red");
-var flashCard2 = BasicCard("The apple is red", "red");
-
 module.exports = BasicCard;
